@@ -7,6 +7,8 @@ FYI, you can find this document at https://github.com/ghing/tools-for-visual-dat
 
 Consider this a work in progress.
 
+I'm talking about 3 tools. Here's a [list of many tools](http://keshif.me/demo/VisTools). It was made by [@adilyalcin](https://twitter.com/adilyalcin).
+
 Before we start
 ---------------
 
