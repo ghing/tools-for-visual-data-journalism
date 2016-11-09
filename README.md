@@ -22,10 +22,10 @@ Data journalism = journalism based on a quantitative analysis of records, docume
 
 Data could be:
 
-    * [Crime incident reports fromt he city data portal](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2)
-    * [Satelite imagery of estate lawns](https://www.revealnews.org/article/who-is-the-wet-prince-of-bel-air-here-are-the-likely-culprits/)
-    * [Details of police shooting victims hand-entered from news reports](https://www.washingtonpost.com/policeshootings/)
-    * What are your examples of data?
+* [Crime incident reports fromt he city data portal](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2)
+* [Satelite imagery of estate lawns](https://www.revealnews.org/article/who-is-the-wet-prince-of-bel-air-here-are-the-likely-culprits/)
+* [Details of police shooting victims hand-entered from news reports](https://www.washingtonpost.com/policeshootings/)
+* What are your examples of data?
 
 The journalism from it could look like ...
 
