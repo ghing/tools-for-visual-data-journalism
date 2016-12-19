@@ -105,7 +105,7 @@ Why these tools?
 
 I wanted to pick tools that:
 
-* Run in the browser and don't have any software installation
+* Run in the browser (so it's more likely that they will run on both Mac OS and Windows) and don't have any software installation
 * Free/low-cost
 * Support a workflow that can be used in more sophisticated tools
 
@@ -231,6 +231,10 @@ CartoCSS is based on CSS (cascading style sheets) which is used to style web pag
 ### Next steps
 
 * Learn how to join datasets in Carto to make a choropleth of business license data.
+
+### Other learning resources
+
+* [Map Excel Data](https://vimeo.com/77289264) - A short tutorial by CARTO that shows how to map data from an Excel spreadsheet. It has some technical parts (using a custom SQL query and special map styles to show numbers instead of markers) that might be difficult for a novice to grasp, but just pay attention to the the steps they're taking and WHY they're taking them.  The process of cleaning the data, importing it, georeferencing, making an experimental map and refining it is similar to what you would do with most maps. 
 
 ### Other tools
 
